@@ -1,4 +1,5 @@
 {
+  "name":"go-libp2p",
   "author": "whyrusleeping",
   "bugs": {
     "url": "https://github.com/ipfs/go-libp2p"
